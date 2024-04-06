@@ -1,0 +1,1784 @@
+@media all and (max-width:700px) {
+
+    .Footer {
+        padding-right: 5%;
+        gap: 5%;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        margin-bottom: 10%;
+        flex-direction: unset;
+    }
+
+    .StripeFt {
+        font-size: 20px;
+    }
+
+    .StripeFTPAra {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .StripeFTPAra {
+        font-size: 12px;
+        line-height: 20px;
+
+    }
+
+
+
+
+}
+
+@media all and (min-width:700px) and (max-width:870px) {
+
+    .Footer {
+        padding-right: 5%;
+        gap: 5%;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        margin-bottom: 10%;
+        flex-direction: unset;
+    }
+
+    .StripeFt {
+        font-size: 20px;
+    }
+
+    .StripeFTPAra {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .StripeFTPAra {
+        font-size: 12px;
+        line-height: 20px;
+
+    }
+
+
+}
+
+@media all and (min-width:870px) and (max-width:1090px) {
+
+    .Footer {
+        padding-right: 5%;
+        gap: 3%;
+    }
+
+    .StripeFt {
+        font-size: 20px;
+    }
+
+    .StripeFTPAra {
+        font-size: 12px;
+        line-height: 20px;
+    }
+
+    .StripeFTPAra {
+        font-size: 12px;
+        line-height: 20px;
+
+    }
+
+}
+
+@media all and (max-width:569px) {
+
+    .StartBT {
+        width: 90.64px;
+        height: 30px;
+    }
+
+    .StartBT2 {
+        width: 90.64px;
+        height: 30px;
+    }
+
+    .StartedTxt {
+        font-size: 20px;
+
+    }
+
+    .GetStarted {
+        padding-right: 0%;
+
+    }
+
+
+    .StartedParasCantainer {
+        flex-wrap: wrap;
+
+    }
+
+    .ExplorePara {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 5%;
+
+    }
+
+    .Always {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 3%;
+    }
+
+
+
+
+}
+
+@media all and (min-width:569px) and (max-width:750px) {
+
+    .GetStarted {
+        padding-right: 0%;
+
+    }
+
+
+    .StartedParasCantainer {
+        flex-wrap: wrap;
+        gap: 5%;
+    }
+
+    .ExplorePara {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 5%;
+
+    }
+
+    .Always {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 3%;
+    }
+
+
+
+
+}
+
+@media all and (min-width:651px) and (max-width:740px) {
+    .StartedParasCantainer {
+        flex-wrap: wrap;
+        gap: 10%;
+    }
+
+    .ExplorePara {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 5%;
+
+    }
+
+    .Always {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 3%;
+    }
+
+
+
+}
+
+@media all and (min-width:740px) and (max-width:1000px) {
+
+
+    .StartedParasCantainer {
+        flex-wrap: wrap;
+        gap: 20%;
+    }
+
+    .ExplorePara {
+        font-size: 15px;
+        line-height: 24px;
+        margin-bottom: 5%;
+
+    }
+
+    .Always {
+        font-size: 14px;
+        line-height: 20px;
+        margin-bottom: 3%;
+    }
+
+}
+
+
+@media all and (max-width:480px) {
+
+    .GlobalCantainer {
+        margin-top: 30%;
+    }
+
+    .Internettxt {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .GlobalPara {
+        font-size: 10px;
+        line-height: 18px;
+        width: 90%;
+
+    }
+
+    .RatingCantainer {
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .FirstRat {
+        font-size: 17px;
+        line-height: 25px;
+
+
+    }
+
+    hr {
+        display: none;
+    }
+
+    .RatingPara {
+        padding: 1%;
+
+        width: fit-content;
+        margin: 2%;
+
+
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+
+
+}
+
+@media all and (min-width:480px) and (max-width:571px) {
+
+    .GlobalCantainer {
+        margin-top: 20%;
+    }
+
+    .Internettxt {
+        font-size: 34px;
+        line-height: 44px;
+    }
+
+    .GlobalPara {
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    .RatingCantainer {
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .FirstRat {
+        font-size: 20px;
+        line-height: 28px;
+
+
+    }
+
+    hr {
+        display: none;
+    }
+
+    .RatingPara {
+        padding: 1%;
+
+        width: fit-content;
+        margin: 2%;
+
+
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+}
+
+
+@media all and (min-width:571px) and (max-width:1078px) {
+
+    .RatingCantainer {
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .FirstRat {
+        font-size: 20px;
+        line-height: 28px;
+
+
+    }
+
+    hr {
+        display: none;
+    }
+
+    .RatingPara {
+        padding: 1%;
+
+        width: fit-content;
+        margin: 2%;
+
+
+        font-size: 13px;
+        line-height: 24px;
+    }
+
+}
+
+
+
+
+
+@media all and (min-width:1078px) and (max-width:1186px) {
+
+    .FirstRat {
+        font-size: 20px;
+        line-height: 28px;
+
+    }
+
+    .RatingPara {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+}
+
+@media all and (max-width:570px) {
+
+    .FlexCantainer2 {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 0%;
+        padding-top: 0px;
+    }
+
+    .finance {
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    .CloseMetal {
+
+
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .financePara1 {
+
+        height: auto;
+        margin: 2%;
+        width: 80%;
+    }
+
+
+
+}
+
+
+@media all and (min-width:570px) and (max-width:728px) {
+
+    .finance {
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    .FlexCantainer2 {
+        flex-wrap: wrap;
+        gap: 0%;
+    }
+
+    .CloseMetal {
+
+
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .financePara1 {
+
+        height: auto;
+        margin: 2%;
+    }
+
+
+}
+
+@media all and (min-width:727px) and (max-width:782px) {
+
+    .finance {
+        font-size: 25px;
+        line-height: 35px;
+    }
+
+    .FlexCantainer2 {
+        flex-wrap: wrap;
+        gap: 0%;
+    }
+
+    .CloseMetal {
+
+
+        font-size: 15px;
+        line-height: 18px;
+    }
+
+    .financePara1 {
+
+        height: auto;
+        margin: 7%;
+    }
+
+}
+
+@media all and (min-width:782px) and (max-width:952px) {
+
+
+    .finance {
+        font-size: 30px;
+    }
+
+    .CloseMetal {
+        font-size: 12px;
+        line-height: 18px;
+    }
+
+    .direct {
+        font-size: 12px;
+        line-height: 18px;
+
+    }
+
+
+    .financePara1 {
+        font-size: 12px;
+        line-height: 15px;
+    }
+
+
+}
+
+
+@media all and (max-width:438px) {
+
+    .FlexPara {
+        flex-direction: column;
+    }
+
+    .SeeLabraries {
+        font-size: 10px;
+        margin-top: -10%;
+
+    }
+
+    .boxRight {
+        width: 70%;
+    }
+
+    .Boxleft {
+
+        width: 70%;
+        margin-bottom: 10%;
+    }
+
+
+
+    .animatedparaStyle {
+
+        font-size: 8px;
+    }
+
+    .animatedparaStyle1 {
+
+        font-size: 8px;
+
+        width: fit-content;
+    }
+
+    .TypingAnimationPara {
+
+
+
+        width: 200px;
+        height: 250px;
+
+    }
+
+    .ToolsSpan {
+        font-size: 7px;
+    }
+
+    .Devolpersheading {
+        font-size: 8px;
+    }
+
+    .REadBtn {
+        width: 90.14px;
+        height: 25px;
+        font-size: 8px;
+        padding-top: 1px;
+
+
+    }
+
+    .ToolsP {
+        width: 60%;
+        font-size: 7px;
+        font-weight: 400;
+        line-height: 12px;
+
+
+
+    }
+
+    .DevolperCantainer {
+        padding: 0%;
+
+        flex-direction: column;
+        width: 100%;
+
+
+        gap: 5%;
+    }
+
+    .WorlHeading {
+
+        width: 50%;
+        font-size: 12px;
+        font-weight: 700;
+        line-height: 18px;
+
+    }
+
+    .BoxLeftPara {
+        font-size: 8px;
+
+
+
+        width: 80%;
+
+        font-weight: 400;
+        line-height: 12px;
+    }
+
+
+
+
+}
+
+@media all and (min-width:438px) and (max-width:475px) {
+
+    .FlexPara {
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .SeeLabraries {
+        font-size: 12px;
+        margin-top: -10%;
+    }
+
+    .boxRight {
+        width: 70%;
+    }
+
+    .Boxleft {
+
+        width: 70%;
+        margin-bottom: 10%;
+    }
+
+
+
+    .animatedparaStyle {
+
+        font-size: 10px;
+    }
+
+    .animatedparaStyle1 {
+
+        font-size: 10px;
+
+        width: fit-content;
+    }
+
+    .TypingAnimationPara {
+
+
+
+        width: 200px;
+        height: 250px;
+
+    }
+
+    .ToolsSpan {
+        font-size: 8px;
+    }
+
+    .Devolpersheading {
+        font-size: 10px;
+    }
+
+    .REadBtn {
+        width: 90.14px;
+        height: 25px;
+        font-size: 8px;
+        padding-top: 1px;
+
+
+    }
+
+    .ToolsP {
+        width: 80%;
+        font-size: 8px;
+        font-weight: 400;
+        line-height: 12px;
+
+
+    }
+
+    .DevolperCantainer {
+        padding: 5%;
+        height: auto;
+        flex-direction: column;
+
+
+
+
+        gap: 5%;
+    }
+
+    .WorlHeading {
+        width: 70%;
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 20px;
+
+    }
+
+    .BoxLeftPara {
+        font-size: 8px;
+
+        width: 80%;
+
+        font-weight: 400;
+        line-height: 12px;
+    }
+
+
+
+
+}
+
+@media all and (min-width:475px) and (max-width:600px) {
+
+    .SeeLabraries {
+        font-size: 14px;
+    }
+
+    .boxRight {
+        width: 70%;
+    }
+
+    .Boxleft {
+
+        width: 70%;
+        margin-bottom: 10%;
+    }
+
+
+
+    .animatedparaStyle {
+
+        font-size: 12px;
+    }
+
+    .animatedparaStyle1 {
+        font-size: 12px;
+
+        width: fit-content;
+    }
+
+    .TypingAnimationPara {
+
+
+        width: 250px;
+        height: 300px;
+
+    }
+
+    .ToolsSpan {
+        font-size: 10px;
+    }
+
+    .Devolpersheading {
+        font-size: 12px;
+    }
+
+    .REadBtn {
+        width: 90.14px;
+        height: 25px;
+        font-size: 8px;
+        padding-top: 1px;
+
+
+    }
+
+    .ToolsP {
+        width: 80%;
+        font-size: 8px;
+        font-weight: 400;
+        line-height: 15px;
+
+
+    }
+
+    .DevolperCantainer {
+        padding: 10%;
+        height: auto;
+        flex-direction: column;
+
+
+
+
+        gap: 5%;
+    }
+
+    .WorlHeading {
+        width: 70%;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 25px;
+
+    }
+
+    .BoxLeftPara {
+        font-size: 10px;
+
+
+        font-weight: 400;
+        line-height: 15px;
+    }
+
+
+
+}
+
+@media all and (min-width:600px) and (max-width:728px) {
+
+    .boxRight {
+        width: 70%;
+    }
+
+    .Boxleft {
+
+        width: 70%;
+        margin-bottom: 10%;
+    }
+
+
+
+    .animatedparaStyle {
+
+        font-size: 15px;
+    }
+
+    .animatedparaStyle1 {
+        font-size: 15px;
+
+        width: fit-content;
+    }
+
+    .TypingAnimationPara {
+
+
+        width: 250px;
+        height: 300px;
+
+    }
+
+    .ToolsSpan {
+        font-size: 14px;
+    }
+
+    .Devolpersheading {
+        font-size: 15px;
+    }
+
+    .REadBtn {
+        width: 110.14px;
+        height: 28px;
+        font-size: 10px;
+        padding-top: 3px;
+
+
+    }
+
+    .ToolsP {
+        width: 80%;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 18px;
+
+
+    }
+
+    .DevolperCantainer {
+        padding: 10%;
+        height: auto;
+        flex-direction: column;
+
+
+
+
+        gap: 5%;
+    }
+
+    .WorlHeading {
+        width: 70%;
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 30px;
+
+    }
+
+    .BoxLeftPara {
+        font-size: 15px;
+
+        font-weight: 400;
+        line-height: 20px;
+    }
+
+
+
+
+
+}
+
+
+@media all and (min-width:728px) and (max-width:870px) {
+
+    .Boxleft {
+
+        width: 35%;
+    }
+
+
+
+    .animatedparaStyle {
+
+        font-size: 15px;
+    }
+
+    .animatedparaStyle1 {
+        font-size: 15px;
+
+        width: fit-content;
+    }
+
+    .TypingAnimationPara {
+
+
+        width: 250px;
+        height: 300px;
+
+    }
+
+    .ToolsSpan {
+        font-size: 10px;
+    }
+
+    .Devolpersheading {
+        font-size: 10px;
+    }
+
+    .REadBtn {
+        width: 110.14px;
+        height: 28px;
+        font-size: 10px;
+        padding-top: 3px;
+
+
+    }
+
+    .ToolsP {
+        width: 80%;
+        font-size: 8px;
+        font-weight: 400;
+        line-height: 12px;
+
+
+    }
+
+    .DevolperCantainer {
+        padding: 22.70263671875px 0px 0px 0%;
+        height: 100vh;
+
+
+        gap: 5%;
+    }
+
+    .WorlHeading {
+        width: 90%;
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 30px;
+
+    }
+
+    .BoxLeftPara {
+        font-size: 10px;
+
+        font-weight: 400;
+        line-height: 12px;
+    }
+
+
+
+}
+
+
+
+@media all and (min-width:870px) and (max-width:900px) {
+
+    .TypingAnimationPara {
+        width: 300px;
+        height: 355px;
+    }
+
+    .ToolsSpan {
+        font-size: 10px;
+    }
+
+    .Devolpersheading {
+        font-size: 10px;
+    }
+
+    .REadBtn {
+        width: 110.14px;
+        height: 28px;
+        font-size: 10px;
+        padding-top: 3px;
+
+    }
+
+    .ToolsP {
+        width: 90%;
+        font-size: 8px;
+        font-weight: 400;
+        line-height: 15px
+    }
+
+    .DevolperCantainer {
+        height: 120vh;
+        gap: 5%;
+    }
+
+    .WorlHeading {
+        font-size: 23px;
+        font-weight: 700;
+        line-height: 32px;
+    }
+
+    .BoxLeftPara {
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 15px;
+    }
+
+
+
+}
+
+@media all and (min-width:900px) and (max-width:1000px) {
+
+    .Devolpersheading {
+        font-size: 12px;
+    }
+
+    .REadBtn {
+        width: 110.14px;
+        height: 28px;
+        font-size: 10px;
+        padding-top: 2px;
+
+    }
+
+    .ToolsP {
+        width: 90%;
+        font-size: 10px;
+        font-weight: 400;
+        line-height: 18px
+    }
+
+    .DevolperCantainer {
+        height: 120vh;
+        gap: 5%;
+    }
+
+    .WorlHeading {
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 35px;
+    }
+
+    .BoxLeftPara {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 18px;
+    }
+
+
+
+}
+
+@media all and (min-width:1000px) and (max-width:1190px) {
+
+    .REadBtn {
+        width: 130.14px;
+        height: 30px;
+        font-size: 12px;
+        padding-top: 2px;
+
+    }
+
+    .ToolsP {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px
+    }
+
+    .DevolperCantainer {
+        height: 120vh;
+        gap: 5%;
+    }
+
+    .WorlHeading {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 40px;
+    }
+
+    .BoxLeftPara {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 22px;
+    }
+
+
+}
+
+
+@media all and (min-width:1190px) and (max-width:1250px) {
+
+    .DevolperCantainer {
+        height: 150vh;
+    }
+
+
+
+}
+
+@media all and (max-width:464px) {
+
+    .ParaCantainer {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10%;
+    }
+
+    .PaymentBtn {
+        width: 130.45px;
+        height: 32px;
+        font-size: 10px;
+
+        align-items: center;
+        margin-top: -8%;
+    }
+
+
+    .unifiedtxt {
+        font-size: 13px;
+    }
+
+
+    .ParaCantainer {
+        gap: 7%;
+    }
+
+    .Para1 {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px;
+        margin-bottom: 5%;
+        width: 80%;
+        height: auto;
+    }
+
+    .fullyTxt {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 30px;
+    }
+
+    .para2 {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px;
+        margin-bottom: 5%;
+        width: 80%;
+        height: auto;
+    }
+
+    span {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px;
+
+
+
+
+    }
+
+
+
+}
+
+@media all and (min-width:464px) and (max-width:634px) {
+
+    .ParaCantainer {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10%;
+    }
+
+    .PaymentBtn {
+        width: 150.45px;
+        height: 30px;
+        font-size: 12px;
+        margin-top: -8%;
+    }
+
+
+    .unifiedtxt {
+        font-size: 15px;
+    }
+
+
+    .ParaCantainer {
+        gap: 7%;
+    }
+
+    .Para1 {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 25px;
+        margin-bottom: 5%;
+        width: 80%;
+        height: auto;
+    }
+
+    .fullyTxt {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 30px;
+    }
+
+    .para2 {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 15px;
+        margin-bottom: 5%;
+        width: 80%;
+        height: auto;
+    }
+
+    span {
+        font-size: 15px;
+        font-weight: 400;
+
+        line-height: 25px;
+
+
+    }
+
+
+
+}
+
+@media all and (min-width:634px) and (max-width:785px) {
+
+    .PaymentBtn {
+        width: 150.45px;
+        height: 30px;
+        font-size: 12px;
+        margin-top: 0%;
+    }
+
+
+    .unifiedtxt {
+        font-size: 15px;
+    }
+
+
+    .ParaCantainer {
+        gap: 7%;
+    }
+
+    .Para1 {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px;
+    }
+
+    .fullyTxt {
+        font-size: 20px;
+        font-weight: 700;
+        line-height: 35px;
+    }
+
+    .para2 {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px;
+
+    }
+
+    span {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 20px;
+
+    }
+
+
+}
+
+@media all and (min-width:785px) and (max-width:1015px) {
+
+
+    .ParaCantainer {
+        gap: 7%;
+    }
+
+    .Para1 {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+
+    .fullyTxt {
+        font-size: 25px;
+        font-weight: 700;
+        line-height: 44px;
+    }
+
+    .para2 {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 24px;
+
+    }
+
+    span {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 24px;
+
+    }
+
+
+}
+
+@media all and (min-width:1015px) and (max-width:1165px) {
+
+    span {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 26px;
+
+    }
+
+    .ParaCantainer {
+        gap: 7%;
+    }
+
+    .Para1 {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .fullyTxt {
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 46px;
+    }
+
+    .para2 {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 26px;
+
+    }
+
+}
+
+@media all and (max-width:400px) {
+    .linkIcons {
+        margin-top: -90%;
+    }
+
+
+}
+
+@media all and (min-width:400px) and (max-width:430px) {
+
+    .linkIcons {
+        margin-top: -75%;
+    }
+
+
+}
+
+@media all and (min-width:430px) and (max-width:500px) {
+
+    .linkIcons {
+        margin-top: -65%;
+    }
+
+
+}
+
+@media all and (min-width:500px) and (max-width:549px) {
+
+
+    .linkIcons {
+        margin-top: -50%;
+    }
+
+}
+
+@media all and (min-width:550px) and (max-width:650px) {
+
+    .linkIcons {
+        margin-top: -40%;
+    }
+
+
+}
+
+@media all and (min-width:650px) and (max-width:750px) {
+    .linkIcons {
+        margin-top: -30%;
+    }
+
+
+
+}
+
+
+@media all and (min-width:750px) and (max-width:900px) {
+
+    .linkIcons {
+        margin-top: -20%;
+    }
+
+
+
+
+}
+
+@media all and (min-width:900px) and (max-width:1050px) {
+
+    .linkIcons {
+        margin-top: -10%;
+    }
+
+
+
+
+}
+
+@media all and (max-width:426px) {
+    .btns {
+        gap: 7px;
+    }
+
+    .FinacialTxt {
+        margin-top: 6%;
+    }
+
+    .ContactBtn {
+        font-size: 5px;
+        margin-top: 2%;
+
+    }
+
+    .StartBtn {
+        height: 12px;
+
+        padding-top: 3px;
+        font-weight: 400px;
+        margin-top: 2%;
+        width: 50px;
+        font-size: 4px;
+    }
+
+    .FinacialTxt {
+        width: 300px;
+
+    }
+
+    .MiloinText {
+        font-size: 5px;
+        margin-top: 2%;
+        line-height: 8px;
+
+    }
+
+    .FTExt {
+        font-size: 10px;
+        font-weight: 700px;
+        line-height: 12px;
+
+    }
+
+
+}
+
+
+@media all and (min-width:426px) and (max-width:466px) {
+    .FinacialTxt {
+        margin-top: 6%;
+    }
+
+    .ContactBtn {
+        font-size: 5px;
+        margin-top: 2%;
+
+    }
+
+    .StartBtn {
+        height: 15px;
+
+        padding-top: 5px;
+        margin-top: 2%;
+        width: 55px;
+        font-size: 5px;
+    }
+
+    .FinacialTxt {
+        width: 290px;
+
+    }
+
+    .MiloinText {
+        font-size: 6px;
+        margin-top: 2%;
+        line-height: 10px;
+
+    }
+
+    .FTExt {
+        font-size: 13px;
+        font-weight: 700px;
+        line-height: 15px;
+
+    }
+
+
+
+}
+
+@media all and (min-width:466px) and (max-width:534px) {
+
+    .ContactBtn {
+        font-size: 6px;
+        margin-top: 2%;
+
+    }
+
+    .StartBtn {
+        height: 15px;
+
+        padding-top: 4px;
+        margin-top: 2%;
+        width: 65px;
+        font-size: 6px;
+    }
+
+    .FinacialTxt {
+        width: 310px;
+
+    }
+
+    .MiloinText {
+        font-size: 6px;
+        margin-top: 2%;
+        line-height: 12px;
+
+    }
+
+    .FTExt {
+        font-size: 15px;
+        font-weight: 700px;
+        line-height: 17px;
+
+    }
+
+
+
+}
+
+@media all and (min-width:534px) and (max-width:586px) {
+
+    .ContactBtn {
+        font-size: 7px;
+        margin-top: 2%;
+
+    }
+
+    .StartBtn {
+        height: 20px;
+
+        padding-top: 5px;
+        margin-top: 2%;
+        width: 77px;
+        font-size: 8px;
+    }
+
+    .FinacialTxt {
+        width: 310px;
+
+    }
+
+    .MiloinText {
+        font-size: 8px;
+        margin-top: 2%;
+        line-height: 14px;
+    }
+
+    .FTExt {
+        font-size: 20px;
+        font-weight: 700px;
+        line-height: 20px;
+
+    }
+
+
+}
+
+
+@media all and (min-width:586px) and (max-width:703px) {
+
+
+    .ContactBtn {
+        font-size: 8px;
+        margin-top: 3%;
+
+    }
+
+    .StartBtn {
+        height: 23px;
+
+        padding-top: 5px;
+        margin-top: 3%;
+        width: 80px;
+        font-size: 10px;
+    }
+
+    .FinacialTxt {
+        width: 310px;
+
+    }
+
+    .MiloinText {
+        font-size: 8px;
+        margin-top: 3%;
+        line-height: 15px;
+    }
+
+    .FTExt {
+        font-size: 23px;
+        font-weight: 700px;
+        line-height: 24px;
+
+    }
+
+
+
+}
+
+@media all and (min-width:703px) and (max-width:793px) {
+
+    .ContactBtn {
+        font-size: 10px;
+        margin-top: 3%;
+
+    }
+
+    .StartBtn {
+        height: 27px;
+
+        padding-top: 6px;
+        margin-top: 3%;
+        width: 90px;
+        font-size: 11px;
+    }
+
+    .FinacialTxt {
+        width: 350px;
+
+    }
+
+    .MiloinText {
+        font-size: 10px;
+        margin-top: 3%;
+        line-height: 20px;
+    }
+
+    .FTExt {
+        font-size: 30px;
+        font-weight: 700px;
+
+    }
+
+
+
+
+
+}
+
+@media all and (min-width:793px) and (max-width:950px) {
+    .StartBtn {
+        width: 101px;
+        font-size: 13px;
+    }
+
+    .FinacialTxt {
+        width: 400px;
+
+    }
+
+    .MiloinText {
+        font-size: 11px;
+        margin-top: 3%;
+        line-height: 22px;
+    }
+
+    .FTExt {
+        font-size: 37px;
+        font-weight: 700px;
+
+    }
+
+
+
+}
+
+@media all and (min-width:950px) and (max-width:1103px) {
+
+    .FinacialTxt {
+        width: 450px;
+
+    }
+
+    .MiloinText {
+        font-size: 15px;
+        margin-top: 4%;
+    }
+
+    .FTExt {
+        font-size: 47px;
+        font-weight: 700px;
+
+    }
+
+
+
+}
+
+@media all and (min-width:1103px) and (max-width:1215px) {
+    .FinacialTxt {
+        width: 450px;
+
+    }
+
+    .FTExt {
+        font-size: 55px;
+        font-weight: 700px;
+
+    }
+
+
+
+}
+
+
+@media all and (min-width:1216px) and (max-width:1300px) {
+
+    .FinacialTxt {
+        width: 500px;
+
+    }
+
+    .FTExt {
+        font-size: 65px;
+        font-weight: 700px;
+
+    }
+
+}
+
+@media all and (max-width: 800px) {
+
+    .ITems {
+        gap: 30px;
+    }
+
+
+
+}
+
+@media all and (max-width: 700px) {
+
+    .ITems {
+        gap: 20px;
+    }
+
+
+
+}
+
+@media all and (max-width: 650px) {
+
+    .IconDragmanu {
+        display: block;
+        width: 35px;
+
+    }
+
+    .ITems,
+    .Sign_In {
+        display: none;
+    }
+
+    .NavCantainer {
+        justify-content: space-between;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+
+
+}
